@@ -1,2 +1,4 @@
-# mission-statement
-This is our mission statement.
+# IoT Educators
+____
+
+**mission statement:** This will be our mission statement. 
